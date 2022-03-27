@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f7d41817-0ad8-9753-43cc-8d381fc556e0
 resourcetype: Document
 title: lecturelab.pdf
 uid: 63e3f919-4d09-a3ec-e66d-b544f15c62b4

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f7d41817-0ad8-9753-43cc-8d381fc556e0
 resourcetype: Document
 title: ugradbioreform.pdf
 uid: 85decafa-b85a-fab3-05b4-11892d85e854

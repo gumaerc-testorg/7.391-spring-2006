@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f7d41817-0ad8-9753-43cc-8d381fc556e0
 resourcetype: Document
 title: evolution.pdf
 uid: c7e1e58d-5e5d-841a-97ae-14c172812127

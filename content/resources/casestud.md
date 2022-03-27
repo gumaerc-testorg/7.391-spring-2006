@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f7d41817-0ad8-9753-43cc-8d381fc556e0
 resourcetype: Document
 title: casestud.pdf
 uid: ba6d1d06-c02c-0e4b-cd09-3d9e42b77c3d
