@@ -6,6 +6,7 @@ file: /courses/7-391-concept-centered-teaching-spring-2006/85decafab85afab305b41
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ugradbioreform.pdf
 uid: 85decafa-b85a-fab3-05b4-11892d85e854
 ---
 This resource provides a number of discussion questions on the topic: Reforming Undergraduate Biology Education.
-

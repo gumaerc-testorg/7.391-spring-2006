@@ -6,6 +6,7 @@ file: /courses/7-391-concept-centered-teaching-spring-2006/b059bbecbfdb04af7e9af
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: miscon.pdf
 uid: b059bbec-bfdb-04af-7e9a-f41e2618bd3c
 ---
 This resource provides information on different ways of confronting student misconceptions.
-

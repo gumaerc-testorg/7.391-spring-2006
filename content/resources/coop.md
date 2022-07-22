@@ -5,6 +5,7 @@ file: /courses/7-391-concept-centered-teaching-spring-2006/4ad2bda8fe8729dbe1142
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: coop.pdf
 uid: 4ad2bda8-fe87-29db-e114-29d49c90ded5
 ---
 This resource provides information effective ways of assigning groups.
-
