@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on group dynamics and creating a concept
   map.
 file: /courses/7-391-concept-centered-teaching-spring-2006/25007bc28f24a6fed155f69be4e477e9_conceptmap.pdf
+file_size: 20277
 file_type: application/pdf
 learning_resource_types:
 - Readings
