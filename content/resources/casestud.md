@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the legistics and case studies
   for the course.
-file: /ol-ocw-studio-app/courses/7-391-concept-centered-teaching-spring-2006/ba6d1d06c02c0e4bcd093d9e42b77c3d_casestud.pdf
+file: /courses/7-391-concept-centered-teaching-spring-2006/ba6d1d06c02c0e4bcd093d9e42b77c3d_casestud.pdf
 file_size: 17575
 file_type: application/pdf
 learning_resource_types:

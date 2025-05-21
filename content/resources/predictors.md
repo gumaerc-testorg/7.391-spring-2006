@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the predictors of success in college.
-file: /ol-ocw-studio-app/courses/7-391-concept-centered-teaching-spring-2006/427ef3cd2fb28e1177093976fc3adefc_predictors.pdf
+file: /courses/7-391-concept-centered-teaching-spring-2006/427ef3cd2fb28e1177093976fc3adefc_predictors.pdf
 file_size: 17636
 file_type: application/pdf
 learning_resource_types:
